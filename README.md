@@ -23,5 +23,5 @@ For detailed information about this project, please refer to the original articl
 Please be aware that the original laguage is Spanish.
 
 ## License
-Details about the project's licensing.
+GNU General Public License v3.0
 
