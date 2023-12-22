@@ -3,6 +3,8 @@
 ## Overview
 This repository contains the implementation of the academic exercise for Microprocessors in the Telecommunications and Electronics program as described in the article "Ejercicio integrador para el estudio de microprocesadores del ingeniero en telecomunicaciones y electrónica" (https://educacioneningenieria.org/index.php/edi/article/view/772). The proposal involves designing a modem using the 8051 microcontroller and simulating character transmission. It includes a clear horizontal and vertical integration with skills and knowledge from disciplines such as Telecommunications Systems, Information Theory, and Electronic Systems, which are essential in the training of professionals in Telecommunications and Electronic Engineering. MATLAB/Simulink and ISIS Proteus platforms are used for the design but the main code was programmed in C language. 
 
+![Diagram](Diagram.png)
+
 ## Technologies Used
 - 8051 Microcontroller
 - C programming language
